@@ -1,6 +1,7 @@
 ## Tactical Phising Attacks with ESP8266
 
 Use this script and the portal templates provided to create malicious WiFi AP'S
+
 The logic is to create an AP that mimics industrial free WiFi portals through DNS spoofing and redirect clients to a phising webpage hosted at the ESP8266 itself
 
 |                                                                                                                                |                                                                                                                                |                                                                                                                                |
@@ -32,7 +33,9 @@ The logic is to create an AP that mimics industrial free WiFi portals through DN
 ### Big ups to
 
 [https://github.com/125K/ESP8266_WiFi_Captive_Portal](https://github.com/125K/ESP8266_WiFi_Captive_Portal "https://github.com/125K/ESP8266_WiFi_Captive_Portal")
+
 [https://github.com/ojack/ESP8266-captive-portal-webserver/](https://github.com/ojack/ESP8266-captive-portal-webserver/ "https://github.com/ojack/ESP8266-captive-portal-webserver/")
+
 [https://github.com/kleo/evilportals](https://github.com/kleo/evilportals "https://github.com/kleo/evilportals")
 
 <span style="font-size:8px">\*Only for educational purposes</span>
